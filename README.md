@@ -4,7 +4,7 @@
 **Type:** Full-time
 **Start Date:** ASAP
 
-We're looking for a builder who takes a problem from a rough idea to something shipped, and does whatever the work needs along the way. One day that's wiring up an agent's tool use and context handling. The next it's the backend service behind it, the eval that proves it works, or the frontend someone uses to run it. You go where the problem is and you get it working.
+We're looking for a builder who takes a problem from a rough idea to something shipped, and does whatever the work needs along the way
 
 This is a hands-on role. You understand the whole harness around a model, down to how context gets constructed, how tools get called, and how a run recovers when a step fails. You learned to code before Claude Code, Codex, and Cursor existed, so you can read a trace, reason from first principles, and fix what the tools get wrong. You use those tools now and use them well, and they build on real fundamentals rather than replace them.
 
