@@ -6,29 +6,26 @@
 
 We're looking for a builder who takes a problem from a rough idea to something shipped, and does whatever the work needs along the way
 
-This is a hands-on role. You understand the whole harness around a model, down to how context gets constructed, how tools get called, and how a run recovers when a step fails. You learned to code before Claude Code, Codex, and Cursor existed, so you can read a trace, reason from first principles, and fix what the tools get wrong. You use those tools now and use them well, and they build on real fundamentals rather than replace them.
+This is a hands-on role. You understand the whole harness around a model, down to how context gets constructed, how tools get called, and how a run recovers when a step fails. You learned to code before Claude Code, Codex, and Cursor existed, so you can read a trace, reason from first principles, and fix what the tools get wrong. You use those tools now and use them well, and they build on real fundamentals.
 
 ## What You'll Do
 
-- Build and ship end to end, taking features from a rough idea to running in production across whatever parts of the stack the work touches
-- Design and iterate on agent behavior across multi-step, long-horizon workflows: tool use, planning, memory, context construction, and recovery from failure
+- Build and ship end to end, taking features from a rough idea to running in production 
+- Design and iterate on agent behavior across multi-step, long-horizon workflows
 - Stand up the scaffolding models run inside, including tool interfaces, sandboxed execution, retries, subagents, and context management that holds up over long sessions
-- Build the evals that tell you whether a change actually helped, plus the tooling to catch regressions before users do
-- Improve agent performance through prompting, tool-use strategy, and hands-on experimentation grounded in evidence
+- Improve agent performance
 - Own the software around all of it: backend services, the data layer, and the interfaces people use to run, observe, and debug agents
-- Instrument and debug across the whole system, from traces to failure modes to the observability that shows you why a run went wrong
-- Pick up unfamiliar problems and figure them out, whether that's a new tool, a new domain, or whatever is blocking the ship
+- Instrument and debug across the whole system
+- Pick up unfamiliar problems and figure them out
 - Write and ship code every day, and help set technical direction as we grow
 
 ## What You Bring
 
-- 4+ years shipping production software, with real range across the stack
+- 4+ years shipping production software, with range across the stack
 - Experience building agent scaffolding, sandboxes, or custom evaluation environments
-- A builder's instinct. You'd rather ship something working today and sharpen it than design the perfect thing for a month
-- You learned to code before AI assistants were part of the workflow, and it shows. You debug across layers and fix what the tools can't
-- Hands-on experience building agentic systems: tool and function calling, multi-step reasoning, memory, context management, and long-running tasks
-- You've built evals or verifiers and used them to make real calls
-- Fluent with AI coding tools and clear about their limits, so you catch the plausible-but-wrong output before it ships
+- A builder's instinct (you'd rather ship something working today and sharpen it than design the perfect thing for a month)
+- Experience building and using evals or verifiers 
+- Fluent with AI coding tools and clear about their limits
 - Able to work independently on open-ended problems and to collaborate across disciplines with clarity and speed
 
 ## Bonus Points
